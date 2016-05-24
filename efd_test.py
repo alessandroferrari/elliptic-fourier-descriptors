@@ -11,7 +11,7 @@ import cv2.cv as cv
 import numpy as np
 import os
 
-from wl_ia.shape_analysis.elliptic_fourier_descriptors import *
+from elliptic_fourier_descriptors import *
 
 testdir = os.path.join("/tmp")
 
